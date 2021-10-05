@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Лабараторна робота</title>
+</head>
+<body>
+    <h1> Тарасов Максим</h1>
+    <p> Мої улюблені книги:</p>
+    <ul>
+        <li> Війна і мир</li>
+        <li> Володар перснів</li>
+    </ul>
+    <a href="index.html"> Головна</a>
+</body>
+</html>
